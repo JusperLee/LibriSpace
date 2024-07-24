@@ -18,25 +18,25 @@ Welcome to the Checkpoints folder! Here you will find instructions on how to dow
 
 | File Name                     | Link                                                                      |
 |-------------------------------|---------------------------------------------------------------------------|
-| AFRCNN-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/AFRCNN-Music.zip)                  |
-| AFRCNN-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/AFRCNN-Noise.zip)                  |
-| BSRNN-Music                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/BSRNN-Music.zip)                   |
-| BSRNN-Noise                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/BSRNN-Noise.zip)                   |
-| DPRNN-Music                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/DPRNN-Music.zip)                   |
-| DPRNN-Noise                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/DPRNN-Noise.zip)                   |
-| DPTNet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/DPTNet-Music.zip)                  |
-| DPTNet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/DPTNet-Noise.zip)                  |
-| Mossformer2-Music             | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Mossformer2-Music.zip)             |
-| Mossformer2-Noise             | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Mossformer2-Noise.zip)             |
-| Mossformer-Music              | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Mossformer-Music.zip)              |
-| Mossformer-Noise              | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Mossformer-Noise.zip)              |
-| Skim-Music                    | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Skim-Music.zip)                    |
-| Skim-Noise                    | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/Skim-Noise.zip)                    |
-| SuDORMRF-Music                | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/SuDORMRF-Music.zip)                |
-| SUDORMRF-Noise                | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/SUDORMRF-Noise.zip)                |
-| TDANet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/TDANet-Music.zip)                  |
-| TDANet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/TDANet-Noise.zip)                  |
-| TFGNet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/TFGNet-Music.zip)                  |
-| TFGNet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/Sep/TFGNet-Noise.zip)                  |
+| AFRCNN-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-AFRCNN-Music.rar)                  |
+| AFRCNN-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-AFRCNN-Noise.rar)                  |
+| BSRNN-Music                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-BSRNN-Music.rar)                   |
+| BSRNN-Noise                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-BSRNN-Noise.rar)                   |
+| DPRNN-Music                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-DPRNN-Music.rar)                   |
+| DPRNN-Noise                   | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-DPRNN-Noise.rar)                   |
+| DPTNet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-DPTNet-Music.rar)                  |
+| DPTNet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-DPTNet-Noise.rar)                  |
+| Mossformer2-Music             | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Mossformer2-Music.rar)             |
+| Mossformer2-Noise             | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Mossformer2-Noise.rar)             |
+| Mossformer-Music              | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Mossformer-Music.rar)              |
+| Mossformer-Noise              | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Mossformer-Noise.rar)              |
+| Skim-Music                    | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Skim-Music.rar)                    |
+| Skim-Noise                    | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-Skim-Noise.rar)                    |
+| SuDORMRF-Music                | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-SuDORMRF-Music.rar)                |
+| SUDORMRF-Noise                | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-SUDORMRF-Noise.rar)                |
+| TDANet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-TDANet-Music.rar)                  |
+| TDANet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-TDANet-Noise.rar)                  |
+| TFGNet-Music                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-TFGNet-Music.rar)                  |
+| TFGNet-Noise                  | [checkpoint](https://github.com/JusperLee/LibriSpace/releases/download/v1.0/Sep-TFGNet-Noise.rar)                  |
 
 Download these model zip files from [LibriSpace GitHub Releases](https://github.com/JusperLee/LibriSpace/releases) and extract them here to start using the pre-trained models for your speech separation applications.

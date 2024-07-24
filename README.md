@@ -35,6 +35,10 @@ conda env create -f LibriSpace/torch-2.0.yml
 conda activate librispace
 ```
 
+### Download Checkpoints
+
+Please check the contents of README.md in the [sep-checkpoints](https://github.com/JusperLee/LibriSpace/tree/main/sep-checkpoints) and [enh-checkpoints](https://github.com/JusperLee/LibriSpace/tree/main/enh-checkpoints) folders, download the appropriate pre-trained models in `Release` and unzip them into the appropriate folders.
+
 ### Speech Separation Inference
 
 Navigate to the `separation` directory and run the inference script with the specified configuration file:
