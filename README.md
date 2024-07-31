@@ -21,17 +21,31 @@
 
 Welcome to the LibriSpace repository! This dataset has been created using SoundSpaces 2.0 to simulate environments with randomly placed microphones, sound sources, and noise sources. By moving sound sources, we have constructed a dynamic speech separation and speech enhancement dataset. The dataset includes speech from the LibriSpeech dataset and noise from the Freesound Dataset 50k (FSD50K) and the Free Music Archive (FMA). Music from FMA has been preprocessed using a pre-trained BSRNN music separation model to remove vocals. All audio in this dataset is sampled at 16 kHz and each sample is 60 seconds long.
 
-## Dataset Download
+## 🔥 News
+
+- [2024-07-31] We release the LibriSpace dataset, which includes speech separation and enhancement tasks.
+
+- [2024-07-24] We release the scripts for `dataset construction` and the pre-trained models for `speech separation and enhancement`.
+
+## 📥 Dataset Download
 
 You can download the pre-constructed dataset from the following link:
 
-[Coming Soon](#)
+### 🔈 Speech Separation and 🔕 Speech Enhancement
 
-## Dataset Construction
+| Dataset Name | Onedrive | Baidu Disk |
+|-----|-----|-----|
+| train folder (40 split rar files, 377G) | [[Download Link](https://1drv.ms/f/c/ba3b81b8a2ef83ae/EsO9TFmnSdNMohY3fYYQu7YBV8LasO-EmkpKEN10dXAl7g?e=n4z3io)] | [[Download Link](https://pan.baidu.com/s/1gC2LVErchEkO7ENdNOIb0A?pwd=c9gw)] |
+| val.rar (4.9G) | [[Download Link](https://1drv.ms/u/c/ba3b81b8a2ef83ae/EX9938DRcx5NhfMfKdNq6NgBVcRdNnjF4syTWhetGa8sew?e=EnEtVn)] | [[Download Link](https://pan.baidu.com/s/11oybiPkFwihj9DZI0H_-vw?pwd=j36i)] |
+| test.rar (2.2G) | [[Download Link](https://1drv.ms/u/c/ba3b81b8a2ef83ae/EeyzjZ9MgeJJsmAfdGTyGCEBMBtwjamGIDLkNLVMU1t2_w?e=KNJRoM)] | [[Download Link](https://pan.baidu.com/s/1GEcvmOs0VyP23v5gBfGREg?pwd=pyyf)] |
+| sep-benchmark data (8.57G) | [[Download Link](https://1drv.ms/f/c/ba3b81b8a2ef83ae/EvDfTqiuSUxCrLKKcFpfGfIBeIgIvHuQkiuvcGBPjplcFg?e=ZeD7Kj)] | [[Download Link](https://pan.baidu.com/s/11oJ457YTA91gDgsVlWlaJA?pwd=kq79)] |
+| enh-benchmark data (7.70G) | [[Download Link](https://1drv.ms/f/c/ba3b81b8a2ef83ae/EmMlMKMYRIVOiYQrRbHIU5wBt52R-Ej5-KdUuzZWsOFb0Q?e=pi05ve)] | [[Download Link](https://pan.baidu.com/s/15QHCdVwhTL_UipvgwAxLCg?pwd=x46b)] |
+
+## 📝 Dataset Construction
 
 To construct the dataset yourself, please refer to the README in the `LibriSpace/data-script` folder. This document provides detailed instructions on how to use the scripts provided to generate the dataset.
 
-## Environment Setup for Training and Inference
+## 🕹️ Environment Setup for Training and Inference
 
 ### Conda Environment Setup
 
@@ -64,11 +78,11 @@ cd enhancement
 python inference.py --conf_dir=../enh-checkpoints/TaylorSENet-Noise/config.yaml
 ```
 
-## Leaderboard
+## 🏆 Leaderboard
 
 We have trained separation and enhancement models on the LibriSpace dataset. The results are as follows:
 
-### Speech Separation (Only two speakers)
+### 🔈 Speech Separation (Only two speakers)
 
 #### Noise Environment
 
@@ -119,7 +133,7 @@ We have trained separation and enhancement models on the LibriSpace dataset. The
 | Mossformer  | 42.10      | 85.54      | 473.74                 | 49.71                  | 163.68               | 153.84                | 4385.91              |
 | Mossformer2 | 55.74      | 112.67     | 830.66                 | 93.33                  | 163.52               | 297.07                | 5617.39              |
 
-### Speech Enhancement
+### 🔕 Speech Enhancement
 
 #### Noise Environment
 
